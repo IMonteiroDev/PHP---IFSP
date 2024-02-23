@@ -10,14 +10,21 @@
 //     echo "#$contador sonhador".PHP_EOL;
 // }
 
+// $nome = 'Igor da Silva Monteiro';
+// $contagem=strlen($nome);
+
+// for($i=0; $i<$contagem; $i++){
+//     echo($nome[$i].PHP_EOL);
+// }
 
 $nome = 'Igor da Silva Monteiro';
-$contagem=strlen($nome);
+$contagem = substr($nome,0,3).PHP_EOL;
+echo $contagem
 
-for($i=0; $i<$contagem; $i++){
-    echo($nome[$i].PHP_EOL);
-}
-
+// for($i=0; $i<$contagem; $i++){
+//     echo($nome[$i].PHP_EOL);
+// }
 
 
 ?>
+
