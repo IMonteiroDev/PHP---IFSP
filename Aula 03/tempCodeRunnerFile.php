@@ -1,7 +1,8 @@
 <?php
-$nome = 'Igor da Silva Monteiro';
-// $contagem=strlen($nome);
-
-// for($i=0; $i<$contagem; $i++){
-//     echo($nome[$i].PHP_EOL);
+// for ($i=$qtd; $i >=0 ; $i--) { 
+//     echo '';
+//     $tamanho = strlen($nomeCompleto[$i]);
+//     for ($j=$tamanho; $j > 0; $j--) { 
+//         echo $nome[$i][$j];
+//     }
 // }
